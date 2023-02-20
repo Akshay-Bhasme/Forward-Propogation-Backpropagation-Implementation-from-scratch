@@ -17,7 +17,7 @@ Given the dataset D{Xi,Yi}
                                                         ..... THis step is called forward propagation.
 3) Repeat step 2) till convergence.
 
-Let's see the implementation of backpropagation using example with simple loss function.
+The implementation of backpropagation using example with simple loss function. Scripts are in notebook.
 
 # <font color='red'>Computational graph</font>
 ![image](https://user-images.githubusercontent.com/87875987/220165888-53d576ca-a1f6-4830-b99a-fac927acddd4.png)
